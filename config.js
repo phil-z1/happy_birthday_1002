@@ -68,8 +68,8 @@ var config = {
         "嗯！一定要好好吃饭！": "./imgs/photo/rain_coat.jpg",        
         "吃饱饱的😋": "./imgs/photo/lunch.jpg",        
         "然后才有力气干活📝": "./imgs/photo/reading.jpg",        
-        "和想我！💕": "./imgs/photo/subway_1.jpg"
-        "生日快乐~~~~~🍭🎂💕": "./imgs/photo/yeah.jpg"
+        "和想我！💕": "./imgs/photo/subway_1.jpg",
+        "生日快乐~~~~~🍭🎂💕": "./imgs/photo/yeah.jpg",
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -81,7 +81,7 @@ var config = {
         cake_fadein: "我的蛋糕呢？",
         light_candle: "蜡烛呢？",
         wish_message: "生日快乐～快点悄咪咪许个愿~",
-        story: "给我亲爱的宝贝大哥~~~"
+        story: "给我亲爱的宝贝大哥~~~",
     },
 
     // 结束语
